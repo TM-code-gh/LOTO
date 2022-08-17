@@ -9,10 +9,10 @@ Automatiser la génération d'au moins un tirage du LOTO
 2) Merge les données dans un seul Excel et faire automatiquement des stats sur l'ensemble des tirages.  
 3) Récupérer ces stats comme base de données en Python. Appliquer des règles mathématiques.  
 4) Générer au moins un tirage (Si plusieurs -> Vérifier qu'ils sont différents).  
-*5) Enregistrer les tirages sortis (Option).  
+5) Enregistrer les tirages sortis (Option).  
 
 # Conclusion
-**main.py** --> Code to run
+**main.py** --> Code to run  
 Toutes les étapes fonctionnent comme attendu.
 
 
